@@ -1,4 +1,4 @@
-# "Data-driven A.I." applied to the Ames Housing dataset
+# "Data-driven A.I." applied to the Ames Housing regression problem
 
 Throughout the regression analysis presented in this repository, we will be following Andrew Ng's "data-driven AI" paradigm.
 That is, we will be sticking with simple linear regression as our model throughout the bulk of the analysis and will be using
